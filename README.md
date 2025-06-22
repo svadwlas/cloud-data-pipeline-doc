@@ -41,9 +41,9 @@ terraform apply
 
 ## 👤 Author
 
-Created by Shatrugna Vad – Enterprise Architect  
+Created by Sha Vadwalas – Director/Principal Enterprise Architect  
 Cloud | Data | Automation | AWS | Platform Strategy  
-[LinkedIn](https://www.linkedin.com/in/your-link)
+[LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/sha-v-0557a118/))
 
 ## 📜 License
 
